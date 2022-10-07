@@ -317,22 +317,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scripts
+    - Assets
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Scripts
+  - Assets
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\lubu5130\FloridaJam_GameJam
+  m_LastProjectPath: C:\Users\lubu5130\Documents\GitHub\FloridaJam
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 5a5b0000
-    m_LastClickedID: 23386
-    m_ExpandedIDs: 000000004e5b0000505b0000585b000000ca9a3b
+    m_SelectedIDs: 625b0000
+    m_LastClickedID: 23394
+    m_ExpandedIDs: 00000000585b00005a5b000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -360,7 +360,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000004e5b0000505b0000
+    m_ExpandedIDs: 00000000585b00005a5b0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -387,7 +387,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c6230000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -772,9 +772,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 6.6586823, y: 3.2321913, z: 0.19318497}
+    m_Target: {x: 7.5485744, y: -2.1109755, z: 5.4280634}
     speed: 2
-    m_Value: {x: 6.6586823, y: 3.2321913, z: 0.19318497}
+    m_Value: {x: 7.5485744, y: -2.1109755, z: 5.4280634}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -820,9 +820,9 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.26301786, y: 0.35318252, z: -0.10416825, w: -0.8917632}
+    m_Target: {x: -0.20488994, y: -0.29087818, z: 0.063917615, w: -0.93238395}
     speed: 2
-    m_Value: {x: -0.26317266, y: 0.35184294, z: -0.103773154, w: -0.892288}
+    m_Value: {x: -0.20488837, y: -0.29087597, z: 0.06391713, w: -0.93237686}
   m_Size:
     m_Target: 9.152006
     speed: 2
