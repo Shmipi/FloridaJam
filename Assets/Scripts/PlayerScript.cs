@@ -20,6 +20,9 @@ public class PlayerScript : MonoBehaviour
     {
         controller = gameObject.GetComponent<CharacterController>();
         Physics.IgnoreLayerCollision(6, 7);
+        
+        GameObject.FindGameObjectWithTag("MainCamera").transform.SetParent(gameObject.transform);
+        
     }
 
     // Update is called once per frame
