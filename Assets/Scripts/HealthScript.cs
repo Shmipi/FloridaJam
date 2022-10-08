@@ -36,11 +36,27 @@ public class HealthScript : MonoBehaviour
                 jamLvl -= Time.deltaTime;
             }
         }
+
+        if(jamLvl <= 0)
+        {
+            //Game Over man, Game Over
+        }
     }
 
     public void Crack()
     {
         health -= 30f;
         Debug.Log("Health" + health);
+    }
+
+    public void TapePickup()
+    {
+        if (health > 100)
+        {
+            health = 300f;
+        } else if (health < 101)
+        {
+            health = 200f;
+        }
     }
 }
