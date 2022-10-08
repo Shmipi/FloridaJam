@@ -39,7 +39,7 @@ Transform:
   - {fileID: 3301367590288827881}
   - {fileID: 3301367589723882469}
   m_Father: {fileID: 0}
-  m_RootOrder: 2
+  m_RootOrder: 12
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!33 &3301367589232759141
 MeshFilter:
@@ -261,7 +261,7 @@ GameObject:
   - component: {fileID: 3301367590190332875}
   m_Layer: 0
   m_Name: CameraFocus
-  m_TagString: Untagged
+  m_TagString: CameraTarget
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
