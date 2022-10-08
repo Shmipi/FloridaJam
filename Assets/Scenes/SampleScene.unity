@@ -830,11 +830,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e417be401568ecd4c91c74f5f2079f7e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _mouseSensitivity: 3
+  _mouseSensitivity: 2
   _target: {fileID: 880786959}
   _distanceFromTarget: 10
   _smoothTime: 0.2
-  _rotationXMinMax: {x: -40, y: 40}
+  _rotationXMinMax: {x: -70, y: 70}
 --- !u!1 &983583157
 GameObject:
   m_ObjectHideFlags: 0
