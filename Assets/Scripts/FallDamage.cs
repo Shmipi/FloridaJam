@@ -10,14 +10,14 @@ public class FallDamage : MonoBehaviour
 
     private bool grounded;
     private float fallSpeed;
-    private Rigidbody2D rb2D;
+    //private Rigidbody2D rb2D;
     [SerializeField]private float minFallDamage;
 
     // Start is called before the first frame update
     void Start()
     {
         controller = gameObject.GetComponent<CharacterController>();
-        rb2D = GetComponent<Rigidbody2D>();
+        //rb2D = GetComponent<Rigidbody2D>();
         playerScript = GetComponent<PlayerScript>();
 
     }
