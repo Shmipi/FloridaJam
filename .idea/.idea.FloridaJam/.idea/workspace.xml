@@ -9,6 +9,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/AttackScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CameraController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Interactable.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -68,7 +69,7 @@
       <option name="presentableId" value="Default" />
       <updated>1665225270373</updated>
       <workItem from="1665225315265" duration="3275000" />
-      <workItem from="1665232245989" duration="9667000" />
+      <workItem from="1665232245989" duration="11368000" />
     </task>
     <servers />
   </component>

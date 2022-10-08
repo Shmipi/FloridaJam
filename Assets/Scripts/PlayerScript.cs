@@ -18,10 +18,11 @@ public class PlayerScript : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        cameraTransform = GameObject.FindGameObjectWithTag("MainCamera").transform;
         controller = gameObject.GetComponent<CharacterController>();
         Physics.IgnoreLayerCollision(6, 7);
         
-        GameObject.FindGameObjectWithTag("MainCamera").transform.SetParent(gameObject.transform);
+        //cameraTransform.SetParent(gameObject.transform);
         
     }
 
