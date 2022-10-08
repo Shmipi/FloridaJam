@@ -29,7 +29,7 @@ public class Interactable : MonoBehaviour
         print("TEST");
         gameObject.layer = 7;
         StartCoroutine(Punching());        
-        Vector3 direction =  transform.position + knockback;
+        Vector3 direction =  transform.position - knockback;
         rb.AddForce(direction.normalized * punchForce, ForceMode.Impulse);
     }
     
