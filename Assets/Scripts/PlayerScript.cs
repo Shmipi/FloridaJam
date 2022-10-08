@@ -57,6 +57,11 @@ public class PlayerScript : MonoBehaviour
         controller.Move(playerVelocity * Time.deltaTime);
     }
 
+    public float GetFallspeed()
+    {
+        return playerVelocity.y;
+    }
+
     private void OnApplicationFocus(bool focus)
     {
         if (focus)
