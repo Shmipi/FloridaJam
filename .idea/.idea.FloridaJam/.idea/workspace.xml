@@ -3,9 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="6e7f9354-f99d-4511-8edd-a720cf35391e" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.FloridaJam/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.FloridaJam/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/CameraController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/CameraController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/OwnPlayerMovement.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/OwnPlayerMovement.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +15,36 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ButtonScript.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CameraController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Interactable.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/viwi3659/Documents/GitHub/FloridaJam/Assets/Scripts/OwnPlayerMovement.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/viwi3659/Documents/GitHub/FloridaJam/Assets/Scripts/OwnPlayerMovement.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/viwi3659/Documents/GitHub/FloridaJam/Assets/Scripts/OwnPlayerMovement.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/viwi3659/Documents/GitHub/FloridaJam/Assets/Scripts/OwnPlayerMovement.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/viwi3659/Documents/GitHub/FloridaJam/Assets/Scripts/OwnPlayerMovement.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/viwi3659/Documents/GitHub/FloridaJam/Assets/Scripts/OwnPlayerMovement.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/viwi3659/Documents/GitHub/FloridaJam/Assets/Scripts/OwnPlayerMovement.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/viwi3659/Documents/GitHub/FloridaJam/Assets/Scripts/OwnPlayerMovement.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/viwi3659/Documents/GitHub/FloridaJam/Assets/Scripts/OwnPlayerMovement.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/viwi3659/Documents/GitHub/FloridaJam/Assets/Scripts/OwnPlayerMovement.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/viwi3659/Documents/GitHub/FloridaJam/Assets/Scripts/OwnPlayerMovement.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/viwi3659/Documents/GitHub/FloridaJam/Assets/Scripts/OwnPlayerMovement.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/viwi3659/Documents/GitHub/FloridaJam/Assets/Scripts/OwnPlayerMovement.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/viwi3659/Documents/GitHub/FloridaJam/Assets/Scripts/OwnPlayerMovement.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/viwi3659/Documents/GitHub/FloridaJam/Assets/Scripts/OwnPlayerMovement.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/viwi3659/Documents/GitHub/FloridaJam/Assets/Scripts/OwnPlayerMovement.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/viwi3659/Documents/GitHub/FloridaJam/Assets/Scripts/OwnPlayerMovement.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/viwi3659/Documents/GitHub/FloridaJam/Assets/Scripts/OwnPlayerMovement.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/viwi3659/Documents/GitHub/FloridaJam/Assets/Scripts/OwnPlayerMovement.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/viwi3659/Documents/GitHub/FloridaJam/Assets/Scripts/OwnPlayerMovement.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/viwi3659/Documents/GitHub/FloridaJam/Assets/Scripts/OwnPlayerMovement.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/viwi3659/Documents/GitHub/FloridaJam/Assets/Scripts/OwnPlayerMovement.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/viwi3659/Documents/GitHub/FloridaJam/Assets/Scripts/OwnPlayerMovement.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/viwi3659/Documents/GitHub/FloridaJam/Assets/Scripts/OwnPlayerMovement.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/viwi3659/Documents/GitHub/FloridaJam/Assets/Scripts/OwnPlayerMovement.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/viwi3659/Documents/GitHub/FloridaJam/Assets/Scripts/OwnPlayerMovement.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/viwi3659/Documents/GitHub/FloridaJam/Assets/Scripts/OwnPlayerMovement.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/viwi3659/Documents/GitHub/FloridaJam/Assets/Scripts/OwnPlayerMovement.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/viwi3659/Documents/GitHub/FloridaJam/Assets/Scripts/OwnPlayerMovement.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/viwi3659/Documents/GitHub/FloridaJam/Assets/Scripts/OwnPlayerMovement.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/WaterManager.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">

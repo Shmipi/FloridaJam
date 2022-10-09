@@ -4,6 +4,8 @@ using System.Collections.Generic;
 using Unity.VisualScripting;
 using UnityEngine;
 
+
+//TODO https://www.google.com/search?q=physics+movement+with+3rd+person+camera+unity&oq=physics+movement+with+3rd+person+camera+unity&aqs=edge..69i57j0i546j69i64.9952j0j4&sourceid=chrome&ie=UTF-8
 public class OwnPlayerMovement : MonoBehaviour
 {
     private Rigidbody rb;
