@@ -607,6 +607,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1279772726636592568, guid: d31167842d6036e49a91b957ab42ea5f, type: 3}
+      propertyPath: m_Mass
+      value: 31.16
+      objectReference: {fileID: 0}
     - target: {fileID: 1279772726636592570, guid: d31167842d6036e49a91b957ab42ea5f, type: 3}
       propertyPath: m_Name
       value: Interactable
