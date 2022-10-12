@@ -32,6 +32,10 @@ public class CameraController : MonoBehaviour
         _target = GameObject.FindGameObjectWithTag("CameraTarget").transform;
     }
 
+    public float GetDistance()
+    {
+        return _distanceFromTarget;
+    }
     void Update()
     {
         float mouseX = Input.GetAxis("Mouse X") * _mouseSensitivity;
