@@ -11,7 +11,7 @@ public class OwnPlayerMovement : MonoBehaviour
     private Rigidbody rb;
 
     private Vector3 inputVector;
-    private Vector2 mouseInput;
+    private Vector3 mouseInput;
 
     [SerializeField] private float moveSpeed, sensitivity, jumpForce;
 
@@ -25,8 +25,7 @@ public class OwnPlayerMovement : MonoBehaviour
     private Transform feetTransform;
 
     [SerializeField] private LayerMask floorMask;
-    
-    
+
     void Start()
     {
         feetTransform = GameObject.FindGameObjectWithTag("feet").transform;
@@ -43,12 +42,13 @@ public class OwnPlayerMovement : MonoBehaviour
         float horInput = Input.GetAxis("Horizontal");
         float vertInput = Input.GetAxis("Vertical");
 
-
         if (horInput != 0 && vertInput != 0)
         {
             
             inputVector = new Vector3(horInput * moveSpeed, rb.velocity.y,vertInput *moveSpeed);
-            mouseInput = new Vector2(Input.GetAxis("Mouse X")*sensitivity, Input.GetAxis("Mouse Y")*sensitivity);
+            transform.LookAt(transform.position + new Vector3(inputVector.x, 0, inputVector.z));
+
+            //mouseInput = new Vector2(Input.GetAxis("Mouse X")*sensitivity, Input.GetAxis("Mouse Y")*sensitivity);
             MovePlayer();
 
         }
@@ -57,13 +57,12 @@ public class OwnPlayerMovement : MonoBehaviour
     private void FixedUpdate()
     {
         rb.velocity = inputVector;
-
     }
 
     private float distance;
     private void MovePlayer()
     {
-        Vector3 moveVector = transform.TransformDirection(inputVector)*moveSpeed;
+        Vector3 moveVector = transform.TransformDirection(inputVector);
         
         
         rb.velocity = new Vector3(moveVector.x , 0, moveVector.z);
