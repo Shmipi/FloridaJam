@@ -77,4 +77,6 @@ public class PlayerScript : MonoBehaviour
             Cursor.lockState = CursorLockMode.None;
         }
     }
+    
+    
 }

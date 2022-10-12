@@ -2991,7 +2991,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   moveSpeed: 10
-  jumpSpeed: 1
+  jumpSpeed: 0.35
   gravity: 0.6
   rotationSpeed: 60
 --- !u!4 &3301367589288330672
