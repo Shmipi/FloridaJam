@@ -24,7 +24,7 @@ public class AttackScript : MonoBehaviour
     {
         if (rayCastLength == 0) rayCastLength = 5;
         player = GameObject.FindGameObjectWithTag("Player");
-        punchCollider.enabled = false;
+        //punchCollider.enabled = false;
         attackable = true;
     }
 
@@ -41,20 +41,19 @@ public class AttackScript : MonoBehaviour
             //TODO Shooting
 
         }
-        if (Input.GetMouseButton(1) && attackable)
+        if (Input.GetMouseButton(0) && attackable)
         {
             punchCollider.enabled = true;
             if (punchCollider.enabled == true)
             {
-                print("Kan slå");
             }
 
-            print("Mus1");
             attackable = false;
             StartCoroutine(Countdown());
             //TODO Använd en collider
             if (punchCollider.TryGetComponent(out GameObject interactable))
             {
+                punchObject = interactable;
                 //TODO Lägg in objekt som blir slaget
                 if (punchObject != null)
                 {
@@ -72,6 +71,14 @@ public class AttackScript : MonoBehaviour
             {
                 en.GetComponent<Interactable>().GetPunched(position, punchForce);
             }
+        }
+    }
+
+    private void OnCollisionEnter(Collision other)
+    {
+        if (other.gameObject.CompareTag("Interactable") && attackable == true)
+        {
+            other.gameObject.GetComponent<Interactable>().GetPunched(position, punchForce);
         }
     }
 

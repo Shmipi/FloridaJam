@@ -12,7 +12,6 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ButtonScript.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CameraController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Interactable.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/OwnPlayerMovement2.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/SimpleMovement.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/WaterManager.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -77,7 +76,8 @@
       <workItem from="1665232245989" duration="12158000" />
       <workItem from="1665249071253" duration="2642000" />
       <workItem from="1665313308096" duration="990000" />
-      <workItem from="1665577067514" duration="6695000" />
+      <workItem from="1665577067514" duration="7276000" />
+      <workItem from="1666173702179" duration="617000" />
     </task>
     <servers />
   </component>
